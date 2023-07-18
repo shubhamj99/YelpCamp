@@ -2,7 +2,7 @@
 
 Yelp Camp is a full-stack MERN (MongoDB, Express.js, React.js, Node.js) project that allows users to browse and review campgrounds located around the country. It provides a comprehensive platform for campers and outdoor enthusiasts to discover new camping sites, read reviews, and share their own experiences.
 
-**Key Features**
+## Key Features
 
 **User Authentication:** The application supports user registration and authentication, allowing users to create personalized accounts and securely log in to the system.
 
@@ -22,7 +22,7 @@ Yelp Camp is a full-stack MERN (MongoDB, Express.js, React.js, Node.js) project 
 
 **Responsive Design:** The application is designed to be mobile-friendly and responsive, ensuring a seamless user experience across different devices and screen sizes.
 
-**Technologies Used**
+## Technologies Used**
 
 **Front-end:** React.js, HTML5, CSS3, JavaScript, Redux (optional for state management)
 
@@ -36,7 +36,7 @@ Yelp Camp is a full-stack MERN (MongoDB, Express.js, React.js, Node.js) project 
 
 **Deployment:** Heroku, AWS, Azure, Netlify, or similar cloud platforms
 
-**Getting Started**
+## Getting Started
 
 To run the project locally on your machine, follow these steps:
 
@@ -52,6 +52,6 @@ Set up the required environment variables for database connection, API keys, etc
 
 Open your browser and visit http://localhost:3000 to access the application.
 
-**Contributing**
+## Contributing
 
 Contributions to Yelp Camp are welcome! If you find any issues or have ideas for improvements, please open a new issue or submit a pull request on the project's GitHub repository. Make sure to follow the established coding conventions and guidelines.
